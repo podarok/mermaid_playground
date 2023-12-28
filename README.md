@@ -14,8 +14,6 @@ mindmap
       On Automatic creation
         Uses
             Creative techniques
-            Strategic planning
-            Argument mapping
     Tools
       Pen and paper
       Mermaid
